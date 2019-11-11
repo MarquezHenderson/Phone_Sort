@@ -1,0 +1,57 @@
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\ApplicationIcon.png
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort.dll
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort.pdb
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\AppManifest.xaml
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Properties\WMAppManifest.xml
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort_Debug_AnyCPU.xap
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\App.g.cs
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\MainPage.g.cs
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.g.resources
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.Resources.AppResources.resources
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.csproj.GenerateResource.Cache
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.dll
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.pdb
+D:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\XapCacheFile.xml
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\ApplicationIcon.png
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort.dll
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort.pdb
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\AppManifest.xaml
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Properties\WMAppManifest.xml
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort_Debug_AnyCPU.xap
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\App.g.cs
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\MainPage.g.cs
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.g.resources
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.Resources.AppResources.resources
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.csproj.GenerateResource.Cache
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.dll
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.pdb
+E:\SD1340\PhoneSort\PhoneSort\PhoneSort\obj\Debug\XapCacheFile.xml
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\ApplicationIcon.png
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort.dll
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort.pdb
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\AppManifest.xaml
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\Properties\WMAppManifest.xml
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\Bin\Debug\PhoneSort_Debug_AnyCPU.xap
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\App.g.cs
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\MainPage.g.cs
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.g.resources
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.Resources.AppResources.resources
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.csproj.GenerateResource.Cache
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.dll
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\PhoneSort.pdb
+F:\Mobile and C sharp class\PhoneSort\PhoneSort\PhoneSort\obj\Debug\XapCacheFile.xml
